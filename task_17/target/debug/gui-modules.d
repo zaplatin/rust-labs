@@ -1,0 +1,1 @@
+C:\Code\rust\labs\task_17\target\debug\gui-modules.exe: C:\Code\rust\labs\task_17\src\main.rs C:\Code\rust\labs\task_17\src\widgets\button.rs C:\Code\rust\labs\task_17\src\widgets\label.rs C:\Code\rust\labs\task_17\src\widgets\window.rs C:\Code\rust\labs\task_17\src\widgets.rs
